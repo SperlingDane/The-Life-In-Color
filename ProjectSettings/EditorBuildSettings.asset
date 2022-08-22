@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2684ff73df5ce9b43a6333ea8ce08159
+  - enabled: 1
+    path: Assets/Scenes/WordBlock1.unity
+    guid: 5c9e445c59d70a741816ea6ba0c72a49
+  - enabled: 1
+    path: Assets/Scenes/WordBlock2.unity
+    guid: 385344cdfd9f660448bec91bd4e4c4d4
+  - enabled: 1
+    path: Assets/Scenes/Level 0.unity
+    guid: 0694bf6f254348345a4eef97560b2e06
+  - enabled: 1
+    path: Assets/Scenes/ColorOption1.unity
+    guid: 616a6b0df25e56d4da4f628ef3c6cdfc
+  - enabled: 1
+    path: Assets/Scenes/Chase Scene 1.unity
+    guid: a2a543ca253b1f446b921c3332cc9451
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ColorOption2.unity
+    guid: 61a2143e9beed3044b1efbc3b2805362
+  - enabled: 1
+    path: Assets/Scenes/Chase Scene 2.unity
+    guid: ded9b9862a694c74d985694085926c46
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 19bff296759f9644c90189dd9a927aae
+  - enabled: 1
+    path: Assets/Scenes/ColorOption3.unity
+    guid: 8a5a3f9427d7ac44fb95ec981237c441
+  - enabled: 1
+    path: Assets/Scenes/Chase Scene 3.unity
+    guid: 7294f85bcc9a120409f64c7559bda0b7
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: b03cf6ffaae81bd4e8296e7eb5b7453e
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 53c2149312e092745b351147c77bdd92
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c31031141b419044a96f9b8ca352552a
+  m_configObjects: {}
